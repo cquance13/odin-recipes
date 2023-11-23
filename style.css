@@ -1,7 +1,32 @@
 /*styles*/
 
- .body {font-family:'Courier New', Courier, monospace; background-color: azure;}
+ .body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: azure;
+}
 
-.title {font-weight: bold;font-size: 100px;text-align: center;background-color:rgb(27, 189, 189)}
+.title {
+    width: 85%;
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+    background-color:rgb(27, 189, 189);
+    margin: 20px auto;
+    padding: 40px 0px;
+}
 
-.list {text-align: center;}
+.list_box {
+margin: 30px;
+}
+
+.ziti {
+   margin: 20px;
+}
+
+.ziti_pic {
+    width: 50%;
+    height: auto;
+    border: dashed 8px salmon;
+    margin: 0px 40px 20px 40px;
+    padding: 8px;
+}
